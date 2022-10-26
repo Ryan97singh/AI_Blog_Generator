@@ -1,0 +1,4 @@
+.env
+build
+dist
+blog_generator.spec
